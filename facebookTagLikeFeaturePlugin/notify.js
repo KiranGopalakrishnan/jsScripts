@@ -1,7 +1,5 @@
 /* 
- * Created using Google Go
- * Created By Kiran Gopalakrishnan[15-10-2015]
- * Distributed Under GPL Licence.
+ * Created By Kiran Gopalakrishnan[15-10-2014]
  */
 (function( $ ) {
  
